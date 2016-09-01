@@ -40,6 +40,13 @@
 			"github": "metafizzy/flickity"
 		},
 		{
++			"name": "Numeric input",
++			"author": "filamentgroup",
++			"url": "https://github.com/filamentgroup/formcore",
++			"description": "A number of features around normalizing the behavior of <input type=\"number\"> form fields.",
++			"github": "filamentgroup/formcore"
++		},
+		{
 			"name": "Gridnav",
 			"author": "Christian Heilmann",
 			"url": "https://github.com/codepo8/gridnav/",
